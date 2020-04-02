@@ -1,0 +1,37 @@
+.media {
+    max-height: 100px
+}
+
+#image {
+    max-height: 100px
+}
+#about {
+    padding-bottom:15px!important;
+}
+
+#aboutcard {
+    background-color: #F5F6F7!important;
+}
+
+.text {
+    padding-left: 20px!important;
+}
+
+#more {
+    text-align: center;
+    color: white!important;
+    background-color:#203864!important
+}
+
+a {
+    color: white!important;
+    text-decoration: none!important;
+}
+
+#morediv {
+    text-align: center;
+}
+
+h1.text {
+    padding-top:5px!important;
+}

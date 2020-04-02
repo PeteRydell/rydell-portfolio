@@ -1,0 +1,38 @@
+.MuiAppBar-colorPrimary {
+    color: slategray!important;
+    background-color:white!important;
+    border-bottom-style: solid!important;
+    border-left-style: solid!important;
+    border-right-style: solid!important;
+    border-color: lightgray!important;
+    border-width: 1px
+}
+
+#navbar {
+    padding-top: 10px
+}
+
+#logo {
+    height: 150px;
+    width: 150px
+}
+
+#appbar {
+    text-align: center;
+    /* background-color: #F5F6F7!important; */
+}
+
+.MuiPaper-elevation4 {
+    box-shadow: none!important;
+}
+
+.MuiButton-label {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navlink {
+    color: slategray!important;
+    text-decoration: none!important;
+}
+
