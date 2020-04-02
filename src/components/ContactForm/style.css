@@ -1,0 +1,48 @@
+.media {
+    max-height: 100px
+}
+
+#image {
+    max-height: 100px
+}
+#about {
+    padding-bottom:40px;
+}
+
+#aboutcard {
+    background-color: #F5F6F7!important;
+}
+
+.text {
+    padding-left: 20px!important;
+}
+
+#more {
+    text-align: center;
+    color: white!important;
+    background-color:#203864!important
+}
+
+#morediv {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 40px!important;
+    text-align: center!important;
+}
+
+#contactcard {
+    margin-bottom:125px!important;
+    background-color: #F5F6F7!important;
+}
+
+#submitbuttonarea {
+    text-align: center!important;
+}
+
+#submitbtn {
+    margin-bottom: 30px!important;
+    color: white!important;
+    background-color:#203864!important
+}
