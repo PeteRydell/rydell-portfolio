@@ -64,7 +64,7 @@ export default function CenteredGrid() {
                     </CardContent>
                 </CardActionArea>
                 <CardActions>
-                    <Button size="small" id="lrnmore" color="primary">
+                    <Button size="small" id="lrnmore" color="primary" href="https://github.com/PeteRydell/zoe-project">
                     In Progress
                     </Button>
                 </CardActions>
